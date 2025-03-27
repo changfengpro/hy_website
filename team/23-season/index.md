@@ -5,7 +5,7 @@ title: 成员
 # {% include icon.html icon="fa-solid fa-users" %}23 赛季团队成员
 {% include search-box.html %}
 {% include search-info.html %}
-历史成员请参考[历届成员](/team/history)。
+历史成员请参考[历届成员](/hy_website/team/history)。
 
 {% include section.html %}
 
