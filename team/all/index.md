@@ -15,6 +15,9 @@ title: 所有成员
 
 {% include list_portrait.html data="members" component="portrait" filters="role: 指导老师" %}
 
+## {% include icon.html icon="fa-solid fa-users" %}团队创始人
+{% include list_portrait.html data="members" component="portrait" filters="type: 团队创始人" %}
+
 ## {% include icon.html icon="fa-solid fa-users" %}团队负责人
 {% include list_portrait.html data="members" component="portrait" filters="type: 团队负责人" %}
 

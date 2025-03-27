@@ -23,7 +23,7 @@
   type="docs"
   text="微信公众号"
   icon="fa-brands fa-weixin"
-  link="https://mp.weixin.qq.com/s/Zrk4PRRGSimJG9bVDj3Zsg"
+  link="https://mp.weixin.qq.com/s/XvYZoKlcQN7F_hZLYqm3Yw"
 %}
 {% include section.html %}
 
